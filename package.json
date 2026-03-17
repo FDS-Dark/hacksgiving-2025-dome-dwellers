@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@expo/vector-icons": "^15.0.3",
+    "expo-auth-session": "^7.0.9",
+    "expo-router": "^6.0.15",
+    "expo-secure-store": "^15.0.7",
+    "react": "^19.2.0",
+    "supabase": "^2.58.5"
+  }
+}

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="db27debd-2f98-4168-bb54-befec6a282b1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/app/app/(main)/_layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/app/(main)/events.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/app/(main)/guide.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/app/(main)/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/app/(main)/map.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/app/(main)/user.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/app/scan.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/app/settings.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/domes2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app/_layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/_layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bun.lock" beforeDir="false" afterPath="$PROJECT_DIR$/app/bun.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/components/CircleFooter.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/components/CircleFooter.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/components/IslandHeader.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/components/IslandHeader.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/constants/theme.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/constants/theme.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/i18n/locales/de.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/i18n/locales/de.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/i18n/locales/en.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/i18n/locales/en.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/i18n/locales/es.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/i18n/locales/es.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/i18n/locales/fr.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/i18n/locales/fr.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="35o3RuTGPalonfoLDgntzV074Qw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "Merging language",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/kwaterskip/OneDrive - Milwaukee School of Engineering/Desktop/Research/hacksgiving2025/hacksgiving-2025-dome-dwellers"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db27debd-2f98-4168-bb54-befec6a282b1" name="Changes" comment="" />
+      <created>1763762595850</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1763762595850</updated>
+    </task>
+    <servers />
+  </component>
+</project>

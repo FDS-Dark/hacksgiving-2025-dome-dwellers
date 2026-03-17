@@ -1,0 +1,31 @@
+services:
+  api:
+    build:
+      context: ./api
+      dockerfile: Dockerfile
+    image: domes-api:prod
+    env_file:
+      - ./api/.env
+    ports:
+      - "8443:8443"
+    command: ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8443"]
+    networks:
+      - domes
+  
+  # domes: Add client back and transition from React -> Expo Go
+  # client:
+  #   build:
+  #     context: ./client
+  #     dockerfile: Dockerfile
+  #   image: domes-client:prod
+  #   ports:
+  #     - "3000:80"
+  #   depends_on:
+  #     - api
+  #   networks:
+  #     - domes
+
+networks:
+  domes:
+    driver: bridge
+    name: domes
